@@ -1,0 +1,7 @@
+Place your assets in the `assets/` folder and update paths in index.html:
+- profile-600.jpg — Hero/profile image
+- project1.png, project2.png — Project screenshots
+- JaneDoe_Resume.pdf — Resume file (optional)
+
+
+Use optimized images (webp or compressed jpg) to keep the site fast.
